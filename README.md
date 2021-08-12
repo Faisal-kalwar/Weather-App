@@ -17,4 +17,4 @@ open index.html in your browser.
 # Repo Link:
 
 # Live Link:
-
+https://faisal-kalwar.github.io/Weather-App/
